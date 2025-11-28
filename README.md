@@ -1,0 +1,1 @@
+# cordova-plugin-aes256-encryption
